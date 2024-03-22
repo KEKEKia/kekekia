@@ -10,10 +10,10 @@
 
 
 <a href="https://github.com/kekekia"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imysh578&layout=compact&theme=nord&hide_border=true" /></a> 
-
+<h2>
 <details>
-<summary><h2>About Me</h2></summary>
-
+<summary>About Me</summary>
+</h2>
   <ul>
       <h4>
 <li>대전과학고등학교 조기졸업</li>
